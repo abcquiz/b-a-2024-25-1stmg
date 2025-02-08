@@ -1,6 +1,5 @@
 [
     {
-        "groupId": "histoire",
         "topic": "Olympe de Gouges",
         "content": {
             "type": "text",
@@ -12,10 +11,9 @@
             { "text": "Une reine de France", "correct": false },
             { "text": "Une scientifique", "correct": false }
         ],
-        "timer": 15
+        "timer": 30
     },
     {
-        "groupId": "histoire",
         "topic": "Olympe de Gouges",
         "content": {
             "type": "text",
@@ -27,10 +25,9 @@
             { "text": "Le Contrat social", "correct": false },
             { "text": "Le Discours de la servitude volontaire", "correct": false }
         ],
-        "timer": 15
+        "timer": 30
     },
     {
-        "groupId": "histoire",
         "topic": "Olympe de Gouges",
         "content": {
             "type": "text",
@@ -41,10 +38,9 @@
             { "text": "Oui", "correct": true },
             { "text": "Non", "correct": false }
         ],
-        "timer": 10
+        "timer": 30
     },
     {
-        "groupId": "histoire",
         "topic": "Olympe de Gouges",
         "content": {
             "type": "text",
@@ -56,10 +52,9 @@
             { "text": "Obtenir l'indépendance de la France", "correct": false },
             { "text": "Renverser la monarchie", "correct": false }
         ],
-        "timer": 15
+        "timer": 30
     },
     {
-        "groupId": "histoire",
         "topic": "Olympe de Gouges",
         "content": {
             "type": "text",
@@ -71,10 +66,9 @@
             { "text": "Elle a soutenu la monarchie", "correct": false },
             { "text": "Elle a dirigé une armée révolutionnaire", "correct": false }
         ],
-        "timer": 15
+        "timer": 30
     },
     {
-        "groupId": "histoire",
         "topic": "Olympe de Gouges",
         "content": {
             "type": "text",
@@ -85,10 +79,9 @@
             { "text": "Oui, elle a écrit plusieurs pièces de théâtre", "correct": true },
             { "text": "Non, elle n'était pas auteure de théâtre", "correct": false }
         ],
-        "timer": 10
+        "timer": 30
     },
     {
-        "groupId": "histoire",
         "topic": "Olympe de Gouges",
         "content": {
             "type": "text",
@@ -100,10 +93,9 @@
             { "text": "Le Manifeste des femmes", "correct": false },
             { "text": "Les droits humains", "correct": false }
         ],
-        "timer": 15
+        "timer": 30
     },
     {
-        "groupId": "histoire",
         "topic": "Olympe de Gouges",
         "content": {
             "type": "text",
@@ -115,10 +107,9 @@
             { "text": "La guerre contre l'Angleterre", "correct": false },
             { "text": "Sa participation à un complot royaliste", "correct": false }
         ],
-        "timer": 15
+        "timer": 30
     },
     {
-        "groupId": "histoire",
         "topic": "Olympe de Gouges",
         "content": {
             "type": "text",
@@ -130,10 +121,9 @@
             { "text": "Le droit à la liberté d'expression", "correct": false },
             { "text": "La fin de l'esclavage", "correct": false }
         ],
-        "timer": 15
+        "timer": 30
     },
     {
-        "groupId": "histoire",
         "topic": "Olympe de Gouges",
         "content": {
             "type": "text",
@@ -145,6 +135,6 @@
             { "text": "Pendant le règne de Louis XIV", "correct": false },
             { "text": "Pendant la Première Guerre mondiale", "correct": false }
         ],
-        "timer": 15
+        "timer": 30
     }
 ]
