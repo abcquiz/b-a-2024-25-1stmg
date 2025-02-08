@@ -1,0 +1,150 @@
+[
+    {
+        "groupId": "histoire",
+        "topic": "Olympe de Gouges",
+        "content": {
+            "type": "text",
+            "text": "Qui était Olympe de Gouges ?",
+            "url": null
+        },
+        "choices": [
+            { "text": "Une écrivaine et militante féministe", "correct": true },
+            { "text": "Une reine de France", "correct": false },
+            { "text": "Une scientifique", "correct": false }
+        ],
+        "timer": 15
+    },
+    {
+        "groupId": "histoire",
+        "topic": "Olympe de Gouges",
+        "content": {
+            "type": "text",
+            "text": "Quel célèbre texte Olympe de Gouges a-t-elle écrit en 1791 ?",
+            "url": null
+        },
+        "choices": [
+            { "text": "La Déclaration des droits de la femme et de la citoyenne", "correct": true },
+            { "text": "Le Contrat social", "correct": false },
+            { "text": "Le Discours de la servitude volontaire", "correct": false }
+        ],
+        "timer": 15
+    },
+    {
+        "groupId": "histoire",
+        "topic": "Olympe de Gouges",
+        "content": {
+            "type": "text",
+            "text": "Olympe de Gouges a-t-elle été guillotinée ?",
+            "url": null
+        },
+        "choices": [
+            { "text": "Oui", "correct": true },
+            { "text": "Non", "correct": false }
+        ],
+        "timer": 10
+    },
+    {
+        "groupId": "histoire",
+        "topic": "Olympe de Gouges",
+        "content": {
+            "type": "text",
+            "text": "Quel était l'objectif principal de la Déclaration des droits de la femme et de la citoyenne ?",
+            "url": null
+        },
+        "choices": [
+            { "text": "Obtenir l'égalité des droits entre hommes et femmes", "correct": true },
+            { "text": "Obtenir l'indépendance de la France", "correct": false },
+            { "text": "Renverser la monarchie", "correct": false }
+        ],
+        "timer": 15
+    },
+    {
+        "groupId": "histoire",
+        "topic": "Olympe de Gouges",
+        "content": {
+            "type": "text",
+            "text": "Quel rôle a joué Olympe de Gouges dans la Révolution française ?",
+            "url": null
+        },
+        "choices": [
+            { "text": "Elle a soutenu les droits des femmes et des citoyens", "correct": true },
+            { "text": "Elle a soutenu la monarchie", "correct": false },
+            { "text": "Elle a dirigé une armée révolutionnaire", "correct": false }
+        ],
+        "timer": 15
+    },
+    {
+        "groupId": "histoire",
+        "topic": "Olympe de Gouges",
+        "content": {
+            "type": "text",
+            "text": "Olympe de Gouges a-t-elle écrit des pièces de théâtre ?",
+            "url": null
+        },
+        "choices": [
+            { "text": "Oui, elle a écrit plusieurs pièces de théâtre", "correct": true },
+            { "text": "Non, elle n'était pas auteure de théâtre", "correct": false }
+        ],
+        "timer": 10
+    },
+    {
+        "groupId": "histoire",
+        "topic": "Olympe de Gouges",
+        "content": {
+            "type": "text",
+            "text": "Comment s'appelait l’œuvre de Olympe de Gouges qui traite des droits des femmes ?",
+            "url": null
+        },
+        "choices": [
+            { "text": "La Déclaration des droits de la femme et de la citoyenne", "correct": true },
+            { "text": "Le Manifeste des femmes", "correct": false },
+            { "text": "Les droits humains", "correct": false }
+        ],
+        "timer": 15
+    },
+    {
+        "groupId": "histoire",
+        "topic": "Olympe de Gouges",
+        "content": {
+            "type": "text",
+            "text": "Quel événement a conduit à l'exécution d'Olympe de Gouges ?",
+            "url": null
+        },
+        "choices": [
+            { "text": "La Révolution française et ses idées politiques", "correct": true },
+            { "text": "La guerre contre l'Angleterre", "correct": false },
+            { "text": "Sa participation à un complot royaliste", "correct": false }
+        ],
+        "timer": 15
+    },
+    {
+        "groupId": "histoire",
+        "topic": "Olympe de Gouges",
+        "content": {
+            "type": "text",
+            "text": "Olympe de Gouges militait principalement pour :",
+            "url": null
+        },
+        "choices": [
+            { "text": "L'égalité des droits entre hommes et femmes", "correct": true },
+            { "text": "Le droit à la liberté d'expression", "correct": false },
+            { "text": "La fin de l'esclavage", "correct": false }
+        ],
+        "timer": 15
+    },
+    {
+        "groupId": "histoire",
+        "topic": "Olympe de Gouges",
+        "content": {
+            "type": "text",
+            "text": "Dans quel contexte historique Olympe de Gouges a-t-elle écrit ses textes ?",
+            "url": null
+        },
+        "choices": [
+            { "text": "Pendant la Révolution française", "correct": true },
+            { "text": "Pendant le règne de Louis XIV", "correct": false },
+            { "text": "Pendant la Première Guerre mondiale", "correct": false }
+        ],
+        "timer": 15
+    }
+]
