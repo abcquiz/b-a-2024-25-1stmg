@@ -11,7 +11,7 @@
             { "text": "Une reine de France", "correct": false },
             { "text": "Une scientifique", "correct": false }
         ],
-        "timer": 30
+        "timer": 60
     },
     {
         "topic": "Olympe de Gouges",
@@ -25,7 +25,7 @@
             { "text": "Le Contrat social", "correct": false },
             { "text": "Le Discours de la servitude volontaire", "correct": false }
         ],
-        "timer": 30
+        "timer": 60
     },
     {
         "topic": "Olympe de Gouges",
@@ -38,7 +38,7 @@
             { "text": "Oui", "correct": true },
             { "text": "Non", "correct": false }
         ],
-        "timer": 30
+        "timer": 60
     },
     {
         "topic": "Olympe de Gouges",
@@ -52,7 +52,7 @@
             { "text": "Obtenir l'indépendance de la France", "correct": false },
             { "text": "Renverser la monarchie", "correct": false }
         ],
-        "timer": 30
+        "timer": 60
     },
     {
         "topic": "Olympe de Gouges",
@@ -66,7 +66,7 @@
             { "text": "Elle a soutenu la monarchie", "correct": false },
             { "text": "Elle a dirigé une armée révolutionnaire", "correct": false }
         ],
-        "timer": 30
+        "timer": 60
     },
     {
         "topic": "Olympe de Gouges",
@@ -79,7 +79,7 @@
             { "text": "Oui, elle a écrit plusieurs pièces de théâtre", "correct": true },
             { "text": "Non, elle n'était pas auteure de théâtre", "correct": false }
         ],
-        "timer": 30
+        "timer": 60
     },
     {
         "topic": "Olympe de Gouges",
@@ -93,7 +93,7 @@
             { "text": "Le Manifeste des femmes", "correct": false },
             { "text": "Les droits humains", "correct": false }
         ],
-        "timer": 30
+        "timer": 60
     },
     {
         "topic": "Olympe de Gouges",
@@ -107,7 +107,7 @@
             { "text": "La guerre contre l'Angleterre", "correct": false },
             { "text": "Sa participation à un complot royaliste", "correct": false }
         ],
-        "timer": 30
+        "timer": 60
     },
     {
         "topic": "Olympe de Gouges",
@@ -121,7 +121,7 @@
             { "text": "Le droit à la liberté d'expression", "correct": false },
             { "text": "La fin de l'esclavage", "correct": false }
         ],
-        "timer": 30
+        "timer": 60
     },
     {
         "topic": "Olympe de Gouges",
@@ -135,7 +135,7 @@
             { "text": "Pendant le règne de Louis XIV", "correct": false },
             { "text": "Pendant la Première Guerre mondiale", "correct": false }
         ],
-        "timer": 30
+        "timer": 60
     },
   {
             "topic": "Olympe de Gouges",
@@ -151,7 +151,7 @@
                 { "text": "Une militante pour les droits des femmes", "correct": true },
                 { "text": "Une poétesse de la Révolution", "correct": true }
             ],
-            "timer": 30
+            "timer": 60
         },
         {
             "topic": "Olympe de Gouges",
@@ -167,7 +167,7 @@
                 { "text": "Les Droits des femmes et des citoyennes", "correct": true },
                 { "text": "Le Manifeste féministe", "correct": false }
             ],
-            "timer": 30
+            "timer": 60
         },
         {
             "topic": "Olympe de Gouges",
@@ -182,7 +182,7 @@
                 { "text": "Elle a échappé à la guillotine", "correct": false },
                 { "text": "Elle a été exécutée par un autre moyen", "correct": false }
             ],
-            "timer": 30
+            "timer": 60
         },
         {
             "topic": "Olympe de Gouges",
@@ -198,7 +198,7 @@
                 { "text": "Égalité pour les esclaves", "correct": false },
                 { "text": "Obtenir des droits politiques pour les femmes", "correct": true }
             ],
-            "timer": 30
+            "timer": 60
         },
         {
             "topic": "Olympe de Gouges",
@@ -214,7 +214,7 @@
                 { "text": "Elle a milité pour la fin de l'esclavage", "correct": true },
                 { "text": "Elle a joué un rôle dans la création des premières lois républicaines", "correct": false }
             ],
-            "timer": 30
+            "timer": 60
         },
         {
             "topic": "Olympe de Gouges",
@@ -230,7 +230,7 @@
                 { "text": "Oui, ses pièces étaient surtout destinées à dénoncer les injustices", "correct": true },
                 { "text": "Elle a été la première à écrire une pièce féministe", "correct": false }
             ],
-            "timer": 30
+            "timer": 60
         },
         {
             "topic": "Olympe de Gouges",
@@ -245,7 +245,7 @@
                 { "text": "Les droits humains", "correct": false },
                 { "text": "La Déclaration des droits humains", "correct": false }
             ],
-            "timer": 30
+            "timer": 60
         },
         {
             "topic": "Olympe de Gouges",
@@ -261,7 +261,7 @@
                 { "text": "Ses idées contre Robespierre", "correct": true },
                 { "text": "Sa résistance à la peine de mort pour les femmes", "correct": false }
             ],
-            "timer": 30
+            "timer": 60
         },
         {
             "topic": "Olympe de Gouges",
@@ -276,7 +276,7 @@
                 { "text": "La fin de l'esclavage", "correct": true },
                 { "text": "Les droits civiques des minorités", "correct": false }
             ],
-            "timer": 30
+            "timer": 60
         },
         {
             "topic": "Olympe de Gouges",
@@ -291,7 +291,7 @@
                 { "text": "Pendant la Première Guerre mondiale", "correct": false },
                 { "text": "Pendant la période du Directoire", "correct": false }
             ],
-            "timer": 30
+            "timer": 60
         },
         {
             "topic": "Olympe de Gouges",
@@ -306,7 +306,7 @@
                 { "text": "Olympe de Gouges, Toulouse", "correct": false },
                 { "text": "Olympe de Gouges, Bordeaux", "correct": false }
             ],
-            "timer": 30
+            "timer": 60
         },
         {
             "topic": "Olympe de Gouges",
@@ -320,7 +320,7 @@
                 { "text": "Olympe Gouges", "correct": false },
                 { "text": "Anne-Olympe Mousset", "correct": false }
             ],
-            "timer": 30
+            "timer": 60
         },
         {
             "topic": "Olympe de Gouges",
@@ -334,7 +334,7 @@
                 { "text": "Voltaire", "correct": false },
                 { "text": "Louis XVI", "correct": false }
             ],
-            "timer": 30
+            "timer": 60
         },
         {
             "topic": "Olympe de Gouges",
@@ -348,7 +348,7 @@
                 { "text": "Jean Gouze", "correct": false },
                 { "text": "Louis Gouze", "correct": false }
             ],
-            "timer": 30
+            "timer": 60
         },
         {
             "topic": "Olympe de Gouges",
@@ -362,7 +362,7 @@
                 { "text": "Jean Aubry", "correct": false },
                 { "text": "Pierre Aubry", "correct": false }
             ],
-            "timer": 30
+            "timer": 60
         },
         {
             "topic": "Olympe de Gouges",
@@ -376,6 +376,6 @@
                 { "text": "L'exécution de Louis XVI", "correct": false },
                 { "text": "Son déménagement à Paris", "correct": false }
             ],
-            "timer": 30
+            "timer": 60
         }
     ]
