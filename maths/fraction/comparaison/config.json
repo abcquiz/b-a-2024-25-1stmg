@@ -1,5 +1,5 @@
 {
-    "title": "Qui est Olympe de Gouges",
+    "title": "Maths - Fractions - Comparaison",
     "duration": 3600,
     "locale": "fr-FR",
     "timezone": "Europe/Paris",
@@ -16,7 +16,7 @@
     "questionsTimer": 120,
     "introduction": {
         "type": "html",
-        "content": "<h2>Qui est Olympe de Gouges?</h2><p>Bienvenue dans ce quiz dédié à Olympe de Gouges, une figure emblématique de la Révolution française et de la lutte pour les droits des femmes. Ce quiz vous permettra de tester vos connaissances sur sa vie, son œuvre et son engagement pour l'égalité des sexes.</p><p>Attention, certaines questions peuvent avoir plusieurs bonnes réponses. Soyez donc attentif(ve) et réfléchissez bien avant de répondre !</p><p>Bonne chance et amusez-vous bien !</p>"
+        "content": "<h2>todo</p>"
     },
     "theme": {
         "primary": "#007bff",
