@@ -1,0 +1,498 @@
+[
+    {
+        "topic": "Personnages",
+        "content": {
+            "type": "text",
+            "text": "Qui Candide rencontre-t-il au début de cet extrait?",
+            "url": null
+        },
+        "choices": [
+            { "text": "Un esclave noir mutilé", "correct": true },
+            { "text": "M. Vanderdendur", "correct": false },
+            { "text": "Pangloss", "correct": false },
+            { "text": "Un habitant de Surinam", "correct": false }
+        ],
+        "timer": 60,
+        "feedback": "Au début de l'extrait, Candide et son compagnon rencontrent 'un nègre étendu par terre' qui est un esclave mutilé."
+    },
+    {
+        "topic": "Vocabulaire",
+        "content": {
+            "type": "text",
+            "text": "Que signifie 'caleçon' dans la phrase 'n'ayant plus que la moitié de son habit, c'est-à-dire d'un caleçon de toile bleue'?",
+            "url": null
+        },
+        "choices": [
+            { "text": "Un vêtement simple couvrant le bas du corps", "correct": true },
+            { "text": "Un chapeau", "correct": false },
+            { "text": "Une veste", "correct": false },
+            { "text": "Des chaussures", "correct": false }
+        ],
+        "timer": 60,
+        "feedback": "Dans ce contexte historique, le 'caleçon' désigne un vêtement simple couvrant le bas du corps, qui constitue l'intégralité de l'habillement du personnage."
+    },
+    {
+        "topic": "Compréhension",
+        "content": {
+            "type": "text",
+            "text": "Quelles mutilations l'esclave a-t-il subies?",
+            "url": null
+        },
+        "choices": [
+            { "text": "La jambe gauche", "correct": true },
+            { "text": "La main droite", "correct": true },
+            { "text": "Un œil", "correct": false },
+            { "text": "Une oreille", "correct": false }
+        ],
+        "timer": 60,
+        "feedback": "Le texte indique clairement: 'il manquait à ce pauvre homme la jambe gauche et la main droite.'"
+    },
+    {
+        "topic": "Analyse",
+        "content": {
+            "type": "text",
+            "text": "Pourquoi l'esclave a-t-il perdu sa main selon le texte?",
+            "url": null
+        },
+        "choices": [
+            { "text": "Parce que la meule l'a attrapée pendant qu'il travaillait dans la sucrerie", "correct": true },
+            { "text": "Suite à une punition pour vol", "correct": false },
+            { "text": "À cause d'une maladie", "correct": false },
+            { "text": "Dans un accident de chasse", "correct": false }
+        ],
+        "timer": 60,
+        "feedback": "L'esclave explique: 'Quand nous travaillons aux sucreries, et que la meule nous attrape le doigt, on nous coupe la main.'"
+    },
+    {
+        "topic": "Analyse",
+        "content": {
+            "type": "text",
+            "text": "Pourquoi l'esclave a-t-il perdu sa jambe?",
+            "url": null
+        },
+        "choices": [
+            { "text": "Parce qu'il a tenté de s'enfuir", "correct": true },
+            { "text": "Suite à une maladie", "correct": false },
+            { "text": "À cause d'un accident de travail", "correct": false },
+            { "text": "Par décision arbitraire de son maître", "correct": false }
+        ],
+        "timer": 60,
+        "feedback": "L'esclave explique: 'quand nous voulons nous enfuir, on nous coupe la jambe.'"
+    },
+    {
+        "topic": "Personnages",
+        "content": {
+            "type": "text",
+            "text": "Qui est M. Vanderdendur dans cet extrait?",
+            "url": null
+        },
+        "choices": [
+            { "text": "Le maître de l'esclave", "correct": true },
+            { "text": "Un négociant/commerçant", "correct": true },
+            { "text": "Un ami de Candide", "correct": false },
+            { "text": "Le gouverneur de Surinam", "correct": false }
+        ],
+        "timer": 60,
+        "feedback": "M. Vanderdendur est décrit comme 'le fameux négociant' et comme le maître de l'esclave."
+    },
+    {
+        "topic": "Vocabulaire",
+        "content": {
+            "type": "text",
+            "text": "Que signifie 'écus patagons' dans la phrase 'lorsque ma mère me vendit dix écus patagons sur la côte de Guinée'?",
+            "url": null
+        },
+        "choices": [
+            { "text": "Une monnaie de l'époque", "correct": true },
+            { "text": "Un type de marchandise", "correct": false },
+            { "text": "Un titre de noblesse", "correct": false },
+            { "text": "Un navire", "correct": false }
+        ],
+        "timer": 60,
+        "feedback": "Les 'écus patagons' étaient une monnaie utilisée à l'époque, mentionnée ici pour indiquer le prix de vente de l'esclave."
+    },
+    {
+        "topic": "Analyse littéraire",
+        "content": {
+            "type": "text",
+            "text": "Quel procédé littéraire Voltaire utilise-t-il lorsque l'esclave dit: 'C'est à ce prix que vous mangez du sucre en Europe'?",
+            "url": null
+        },
+        "choices": [
+            { "text": "L'ironie", "correct": true },
+            { "text": "La métaphore", "correct": false },
+            { "text": "L'hyperbole", "correct": false },
+            { "text": "L'allitération", "correct": false }
+        ],
+        "timer": 60,
+        "feedback": "Voltaire utilise l'ironie pour dénoncer le système esclavagiste qui permet aux Européens de consommer du sucre au 'prix' de la souffrance humaine."
+    },
+    {
+        "topic": "Compréhension",
+        "content": {
+            "type": "text",
+            "text": "Que sont les 'fétiches' mentionnés par l'esclave?",
+            "url": null
+        },
+        "choices": [
+            { "text": "Des objets religieux ou sacrés", "correct": true },
+            { "text": "Des jouets", "correct": false },
+            { "text": "Des armes", "correct": false },
+            { "text": "Des vêtements", "correct": false }
+        ],
+        "timer": 60,
+        "feedback": "Les 'fétiches' font référence aux objets de culte ou divinités adorés dans sa culture d'origine, avant sa conversion au christianisme par les Hollandais."
+    },
+    {
+        "topic": "Analyse",
+        "content": {
+            "type": "text",
+            "text": "Quelle comparaison l'esclave fait-il pour décrire sa condition?",
+            "url": null
+        },
+        "choices": [
+            { "text": "Il se compare aux animaux (chiens, singes, perroquets)", "correct": true },
+            { "text": "Il se compare à son maître", "correct": false },
+            { "text": "Il se compare aux nobles européens", "correct": false },
+            { "text": "Il se compare aux plantes", "correct": false }
+        ],
+        "timer": 60,
+        "feedback": "L'esclave dit: 'Les chiens, les singes, et les perroquets, sont mille fois moins malheureux que nous', établissant ainsi que sa condition est pire que celle des animaux."
+    },
+    {
+        "topic": "Philosophie",
+        "content": {
+            "type": "text",
+            "text": "Qu'est-ce que l'optimisme selon Candide dans cet extrait?",
+            "url": null
+        },
+        "choices": [
+            { "text": "La rage de soutenir que tout est bien quand on est mal", "correct": true },
+            { "text": "Une philosophie constructive", "correct": false },
+            { "text": "Une vision positive de l'avenir", "correct": false },
+            { "text": "Un courant artistique", "correct": false }
+        ],
+        "timer": 60,
+        "feedback": "Candide définit l'optimisme comme: 'la rage de soutenir que tout est bien quand on est mal', ce qui montre son rejet de la philosophie optimiste de Pangloss."
+    },
+    {
+        "topic": "Religion",
+        "content": {
+            "type": "text",
+            "text": "Selon les 'fétiches hollandais' (prêcheurs), quelle est la relation entre les Blancs et les Noirs?",
+            "url": null
+        },
+        "choices": [
+            { "text": "Ils sont tous enfants d'Adam", "correct": true },
+            { "text": "Ils sont tous cousins", "correct": true },
+            { "text": "Ils sont de races différentes", "correct": false },
+            { "text": "Ils sont ennemis par nature", "correct": false }
+        ],
+        "timer": 60,
+        "feedback": "L'esclave rapporte que les prêcheurs disent: 'nous sommes tous enfants d'Adam, blancs et noirs' et ajoute 'nous sommes tous cousins issus de germain'."
+    },
+    {
+        "topic": "Vocabulaire",
+        "content": {
+            "type": "text",
+            "text": "Que signifie 'généalogiste' dans la phrase 'Je ne suis pas généalogiste'?",
+            "url": null
+        },
+        "choices": [
+            { "text": "Une personne qui étudie les liens de parenté et l'histoire des familles", "correct": true },
+            { "text": "Un théologien", "correct": false },
+            { "text": "Un philosophe", "correct": false },
+            { "text": "Un médecin", "correct": false }
+        ],
+        "timer": 60,
+        "feedback": "Un 'généalogiste' est quelqu'un qui étudie les liens de parenté et l'histoire des familles. L'esclave dit qu'il n'est pas spécialiste de ces questions, mais accepte l'idée que tous les humains sont liés."
+    },
+    {
+        "topic": "Géographie",
+        "content": {
+            "type": "text",
+            "text": "Où se déroule cette scène?",
+            "url": null
+        },
+        "choices": [
+            { "text": "À l'entrée de Surinam", "correct": true },
+            { "text": "En Hollande", "correct": false },
+            { "text": "Sur la côte de Guinée", "correct": false },
+            { "text": "Dans une sucrerie", "correct": false }
+        ],
+        "timer": 60,
+        "feedback": "La scène se déroule aux abords de Surinam, comme indiqué à la fin de l'extrait: 'et en pleurant, il entra dans Surinam.'"
+    },
+    {
+        "topic": "Analyse",
+        "content": {
+            "type": "text",
+            "text": "Quelle réaction émotionnelle Candide a-t-il face au récit de l'esclave?",
+            "url": null
+        },
+        "choices": [
+            { "text": "Il pleure", "correct": true },
+            { "text": "Il remet en question la philosophie optimiste", "correct": true },
+            { "text": "Il s'enfuit", "correct": false },
+            { "text": "Il reste indifférent", "correct": false }
+        ],
+        "timer": 60,
+        "feedback": "Candide pleure ('et il versait des larmes en regardant son nègre') et remet en question l'optimisme de Pangloss ('il faudra qu'à la fin je renonce à ton optimisme')."
+    },
+    {
+        "topic": "Vocabulaire",
+        "content": {
+            "type": "text",
+            "text": "Que signifie le mot 'abomination' dans la phrase 'tu n'avais pas deviné cette abomination'?",
+            "url": null
+        },
+        "choices": [
+            { "text": "Quelque chose d'horrible, qui inspire le dégoût moral", "correct": true },
+            { "text": "Une surprise", "correct": false },
+            { "text": "Une découverte scientifique", "correct": false },
+            { "text": "Un phénomène naturel", "correct": false }
+        ],
+        "timer": 60,
+        "feedback": "Une 'abomination' est quelque chose qui inspire l'horreur et le dégoût moral. Candide utilise ce terme pour qualifier l'esclavage et le traitement inhumain des esclaves."
+    },
+    {
+        "topic": "Thèmes",
+        "content": {
+            "type": "text",
+            "text": "Quels thèmes des Lumières sont abordés dans cet extrait?",
+            "url": null
+        },
+        "choices": [
+            { "text": "La critique de l'esclavage", "correct": true },
+            { "text": "La remise en question des systèmes philosophiques", "correct": true },
+            { "text": "L'égalité naturelle entre les hommes", "correct": true },
+            { "text": "L'éloge de la monarchie absolue", "correct": false }
+        ],
+        "timer": 60,
+        "feedback": "L'extrait aborde plusieurs thèmes typiques des Lumières: la critique de l'esclavage, la remise en question de systèmes philosophiques dogmatiques (l'optimisme de Pangloss), et l'idée d'égalité naturelle entre tous les hommes."
+    },
+    {
+        "topic": "Personnages",
+        "content": {
+            "type": "text",
+            "text": "Qui est Pangloss mentionné dans l'extrait?",
+            "url": null
+        },
+        "choices": [
+            { "text": "Le précepteur/maître de Candide", "correct": true },
+            { "text": "Un philosophe optimiste", "correct": true },
+            { "text": "Le propriétaire de l'esclave", "correct": false },
+            { "text": "Un marchand de sucre", "correct": false }
+        ],
+        "timer": 60,
+        "feedback": "Pangloss est le précepteur de Candide et un philosophe optimiste qui lui a enseigné que 'tout est pour le mieux dans le meilleur des mondes possibles' - une philosophie que Candide commence à remettre en question dans cet extrait."
+    },
+    {
+        "topic": "Vocabulaire",
+        "content": {
+            "type": "text",
+            "text": "Que signifie le terme 'usage' dans la phrase 'c'est l'usage'?",
+            "url": null
+        },
+        "choices": [
+            { "text": "Une pratique habituelle ou coutumière", "correct": true },
+            { "text": "Un traité", "correct": false },
+            { "text": "Une loi écrite", "correct": false },
+            { "text": "Un conseil", "correct": false }
+        ],
+        "timer": 60,
+        "feedback": "L''usage' désigne ici une pratique habituelle, une coutume établie - l'esclave indique que les mutilations qu'il a subies font partie des pratiques normales dans le traitement des esclaves."
+    },
+    {
+        "topic": "Analyse littéraire",
+        "content": {
+            "type": "text",
+            "text": "Quelle est la tonalité dominante du discours de l'esclave?",
+            "url": null
+        },
+        "choices": [
+            { "text": "Ironique", "correct": true },
+            { "text": "Résignée", "correct": true },
+            { "text": "Enthousiaste", "correct": false },
+            { "text": "Agressive", "correct": false }
+        ],
+        "timer": 60,
+        "feedback": "Le discours de l'esclave est à la fois ironique (notamment quand il parle du prix du sucre et des enseignements de sa mère) et résigné face à sa condition."
+    },
+    {
+        "topic": "Contexte historique",
+        "content": {
+            "type": "text",
+            "text": "Quelle activité économique est dénoncée dans cet extrait?",
+            "url": null
+        },
+        "choices": [
+            { "text": "La production de sucre basée sur l'esclavage", "correct": true },
+            { "text": "Le commerce maritime", "correct": false },
+            { "text": "L'agriculture européenne", "correct": false },
+            { "text": "L'exploitation minière", "correct": false }
+        ],
+        "timer": 60,
+        "feedback": "L'extrait dénonce spécifiquement la production de sucre basée sur l'exploitation des esclaves, comme l'indique la phrase: 'C'est à ce prix que vous mangez du sucre en Europe.'"
+    },
+    {
+        "topic": "Vocabulaire",
+        "content": {
+            "type": "text",
+            "text": "Que signifie 'hollandais' dans 'Candide en hollandais'?",
+            "url": null
+        },
+        "choices": [
+            { "text": "La langue néerlandaise", "correct": true },
+            { "text": "Un accent particulier", "correct": false },
+            { "text": "Un ton amical", "correct": false },
+            { "text": "Une expression de politesse", "correct": false }
+        ],
+        "timer": 60,
+        "feedback": "Le 'hollandais' fait référence à la langue néerlandaise, dans laquelle Candide s'adresse à l'esclave."
+    },
+    {
+        "topic": "Analyse",
+        "content": {
+            "type": "text",
+            "text": "Quelle est la fonction du personnage de l'esclave dans cet extrait?",
+            "url": null
+        },
+        "choices": [
+            { "text": "Dénoncer les horreurs de l'esclavage", "correct": true },
+            { "text": "Remettre en question la philosophie optimiste", "correct": true },
+            { "text": "Faire avancer l'intrigue", "correct": true },
+            { "text": "Divertir le lecteur", "correct": false }
+        ],
+        "timer": 60,
+        "feedback": "L'esclave sert à dénoncer les horreurs de l'esclavage, à remettre en question la philosophie optimiste de Pangloss, et à faire évoluer le personnage de Candide dans sa vision du monde."
+    },
+    {
+        "topic": "Style",
+        "content": {
+            "type": "text",
+            "text": "Quel procédé rhétorique Voltaire utilise-t-il quand l'esclave dit 'Les chiens, les singes, et les perroquets, sont mille fois moins malheureux que nous'?",
+            "url": null
+        },
+        "choices": [
+            { "text": "Une comparaison", "correct": true },
+            { "text": "Une hyperbole", "correct": true },
+            { "text": "Un euphémisme", "correct": false },
+            { "text": "Une litote", "correct": false }
+        ],
+        "timer": 60,
+        "feedback": "Cette phrase contient à la fois une comparaison (entre les esclaves et les animaux) et une hyperbole ('mille fois moins malheureux') pour accentuer la dénonciation des conditions inhumaines des esclaves."
+    },
+    {
+        "topic": "Contexte littéraire",
+        "content": {
+            "type": "text",
+            "text": "À quel genre littéraire appartient 'Candide'?",
+            "url": null
+        },
+        "choices": [
+            { "text": "Le conte philosophique", "correct": true },
+            { "text": "Le roman historique", "correct": false },
+            { "text": "La tragédie", "correct": false },
+            { "text": "L'autobiographie", "correct": false }
+        ],
+        "timer": 60,
+        "feedback": "'Candide' est un conte philosophique, un genre dans lequel Voltaire excelle, qui utilise la fiction pour véhiculer des idées philosophiques et critiques."
+    },
+    {
+        "topic": "Analyse littéraire",
+        "content": {
+            "type": "text",
+            "text": "Pourquoi Voltaire fait-il parler un esclave dans cet extrait?",
+            "url": null
+        },
+        "choices": [
+            { "text": "Pour donner une voix aux opprimés", "correct": true },
+            { "text": "Pour renforcer la critique de l'esclavage", "correct": true },
+            { "text": "Pour montrer l'absurdité du système", "correct": true },
+            { "text": "Pour divertir ses lecteurs aristocrates", "correct": false }
+        ],
+        "timer": 60,
+        "feedback": "En donnant la parole à un esclave, Voltaire lui confère une dignité et une humanité que le système esclavagiste lui refuse, renforce sa critique, et démontre l'absurdité et la cruauté du système."
+    },
+    {
+        "topic": "Personnages",
+        "content": {
+            "type": "text",
+            "text": "Qui est Cacambo mentionné brièvement dans l'extrait?",
+            "url": null
+        },
+        "choices": [
+            { "text": "Le compagnon de voyage de Candide", "correct": true },
+            { "text": "Un esclave", "correct": false },
+            { "text": "Un philosophe", "correct": false },
+            { "text": "Le maître de l'esclave", "correct": false }
+        ],
+        "timer": 60,
+        "feedback": "Cacambo est le compagnon de voyage et serviteur de Candide dans cette partie du conte. Il demande ce qu'est l'optimisme, n'étant pas familier avec ce concept philosophique."
+    },
+    {
+        "topic": "Vocabulaire",
+        "content": {
+            "type": "text",
+            "text": "Que signifie le terme 'sucrerie' dans ce contexte?",
+            "url": null
+        },
+        "choices": [
+            { "text": "Une plantation où l'on produit du sucre", "correct": true },
+            { "text": "Un bonbon", "correct": false },
+            { "text": "Un compliment", "correct": false },
+            { "text": "Une pâtisserie", "correct": false }
+        ],
+        "timer": 60,
+        "feedback": "Dans ce contexte, une 'sucrerie' désigne une plantation ou une usine où l'on cultive la canne à sucre et produit le sucre, souvent avec le travail forcé des esclaves."
+    },
+    {
+        "topic": "Compréhension",
+        "content": {
+            "type": "text",
+            "text": "Que fait l'esclave lorsque Candide le rencontre?",
+            "url": null
+        },
+        "choices": [
+            { "text": "Il attend son maître", "correct": true },
+            { "text": "Il travaille dans les champs", "correct": false },
+            { "text": "Il essaie de s'enfuir", "correct": false },
+            { "text": "Il mendie", "correct": false }
+        ],
+        "timer": 60,
+        "feedback": "L'esclave répond à Candide: 'J'attends mon maître, M. Vanderdendur, le fameux négociant.'"
+    },
+    {
+        "topic": "Structure",
+        "content": {
+            "type": "text",
+            "text": "Quelle est la structure narrative de cet extrait?",
+            "url": null
+        },
+        "choices": [
+            { "text": "Un dialogue entre Candide et l'esclave", "correct": true },
+            { "text": "Un monologue de l'esclave", "correct": false },
+            { "text": "Une description par un narrateur omniscient", "correct": false },
+            { "text": "Un échange de lettres", "correct": false }
+        ],
+        "timer": 60,
+        "feedback": "L'extrait est structuré principalement comme un dialogue entre Candide et l'esclave, avec des commentaires narratifs entrelacés."
+    },
+    {
+        "topic": "Analyse",
+        "content": {
+            "type": "text",
+            "text": "Quelle contradiction l'esclave met-il en évidence concernant la religion?",
+            "url": null
+        },
+        "choices": [
+            { "text": "Les prêcheurs disent que tous les hommes sont égaux mais le traitement des esclaves contredit cela", "correct": true },
+            { "text": "La religion encourage l'optimisme mais le monde est cruel", "correct": false },
+            { "text": "Les Hollandais sont religieux mais ils sont cruels", "correct": false },
+            { "text": "Les fétiches sont puissants mais ils n'ont pas aidé l'esclave", "correct": false }
+        ],
+        "timer": 60,
+        "feedback": "L'esclave souligne que les prêcheurs chrétiens enseignent que tous les hommes sont égaux ('nous sommes tous enfants d'Adam'), mais que cette égalité théorique est démentie par le traitement inhumain des esclaves ('on ne peut pas en user avec ses parents d'une manière plus horrible')."
+    }
+]
