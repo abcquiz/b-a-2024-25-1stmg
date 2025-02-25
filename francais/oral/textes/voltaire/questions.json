@@ -494,21 +494,7 @@
         ],
         "timer": 60,
         "feedback": "L'esclave souligne que les prêcheurs chrétiens enseignent que tous les hommes sont égaux ('nous sommes tous enfants d'Adam'), mais que cette égalité théorique est démentie par le traitement inhumain des esclaves ('on ne peut pas en user avec ses parents d'une manière plus horrible')."
-    }
-,
-    {
-        "topic": "Personnages",
-        "content": {
-            "type": "text",
-            "text": "Qui Candide rencontre-t-il au début de cet extrait?",
-            "url": null
-        },
-        "choices": [
-            { "text": "Un esclave noir mutilé", "correct": true },
-            { "text": "M. Vanderdendur", "correct": false },
-            { "text": "Pangloss", "correct": false },
-            { "text": "Un habitant de Surinam", "correct": false }
-        ,
+    },
     {
         "topic": "Vocabulaire",
         "content": {
@@ -844,10 +830,6 @@
         ],
         "timer": 60,
         "feedback": "Surinam (aujourd'hui le Suriname) était une colonie hollandaise située en Amérique du Sud, connue pour ses plantations de canne à sucre cultivées par des esclaves. C'était un centre important du commerce colonial et de l'esclavage, ce qui explique sa présence dans cette critique de Voltaire."
-    }
-],
-        "timer": 60,
-        "feedback": "Au début de l'extrait, Candide et son compagnon rencontrent 'un nègre étendu par terre' qui est un esclave mutilé."
     },
     {
         "topic": "Vocabulaire",
