@@ -1,0 +1,35 @@
+{
+    "title": "Contexte historique et littéraire de Candide de Voltaire",
+    "duration": 3600,
+    "locale": "fr-FR",
+    "timezone": "Europe/Paris",
+    "startDate": "2025-02-27T15:30:00",
+    "endDate": "2026-07-15T18:00:00",
+    "showAnswers": true,
+    "showFeedbackAfterEachQuestion": true,
+    "showPreviousButton": true,
+    "minScore": 60,
+    "shuffleQuestions": true,
+    "shuffleChoices": true,
+    "shuffleQuestionGroups": true,
+    "enableTimer": false,
+    "questionsTimer": 60,
+    "introduction": {
+      "type": "html",
+      "content": "<h2>Contexte historique et littéraire de Candide de Voltaire</h2><p>Bienvenue dans ce quiz sur le contexte historique et littéraire de l'extrait de Candide de Voltaire. Ce quiz te permettra d'approfondir ta compréhension du système colonial au XVIIIe siècle, du commerce triangulaire, de l'esclavage et de la critique voltairienne. Ces connaissances sont essentielles pour ton oral du bac français!</p><p>Attention, certaines questions peuvent avoir plusieurs bonnes réponses. Prends le temps de réfléchir avant de répondre.</p><p>Bonne chance!</p>"
+    },
+    "theme": {
+      "primary": "#007bff",
+      "secondary": "#6c757d",
+      "success": "#28a745",
+      "danger": "#dc3545",
+      "background": "#f8f9fa"
+    },
+    "metadata": {
+      "author": "Prof de Français",
+      "difficulty": "intermediate",
+      "category": "littérature-française",
+      "version": "1.0",
+      "lastUpdated": "2025-02-26"
+    }
+  }

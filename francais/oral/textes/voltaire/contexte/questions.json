@@ -1,0 +1,340 @@
+[
+    {
+      "topic": "Contexte colonial",
+      "content": {
+        "type": "text",
+        "text": "Qu'était le Surinam au XVIIIe siècle?",
+        "url": null
+      },
+      "choices": [
+        { "text": "Une colonie hollandaise", "correct": true },
+        { "text": "Une colonie française", "correct": false },
+        { "text": "Une colonie espagnole", "correct": false },
+        { "text": "Une colonie portugaise", "correct": false }
+      ],
+      "timer": 60,
+      "feedback": "Le Surinam était une colonie hollandaise située sur la côte nord de l'Amérique du Sud, entre ce qui est aujourd'hui le Guyana et la Guyane française. La période coloniale hollandaise s'étend de 1667 à 1975."
+    },
+    {
+      "topic": "Économie coloniale",
+      "content": {
+        "type": "text",
+        "text": "Sur quoi reposait principalement l'économie du Surinam à l'époque de Candide?",
+        "url": null
+      },
+      "choices": [
+        { "text": "Les plantations de canne à sucre", "correct": true },
+        { "text": "Les plantations de café", "correct": true },
+        { "text": "L'exploitation minière d'or", "correct": false },
+        { "text": "La pêche", "correct": false }
+      ],
+      "timer": 60,
+      "feedback": "L'économie du Surinam était principalement fondée sur les plantations de canne à sucre et de café, comme mentionné dans le texte."
+    },
+    {
+      "topic": "Commerce triangulaire",
+      "content": {
+        "type": "text",
+        "text": "Quelles étaient les trois étapes du commerce triangulaire?",
+        "url": null
+      },
+      "choices": [
+        { "text": "Europe → Afrique → Amériques → Europe", "correct": true },
+        { "text": "Europe → Amériques → Afrique → Europe", "correct": false },
+        { "text": "Afrique → Europe → Amériques → Afrique", "correct": false },
+        { "text": "Amériques → Europe → Afrique → Amériques", "correct": false }
+      ],
+      "timer": 60,
+      "feedback": "Le commerce triangulaire suivait trois trajets: d'Europe vers l'Afrique avec des marchandises manufacturées, d'Afrique vers les Amériques avec des esclaves, et des Amériques vers l'Europe avec des produits coloniaux comme le sucre, le café et le coton."
+    },
+    {
+      "topic": "Esclavage",
+      "content": {
+        "type": "text",
+        "text": "Quelle région d'Afrique est mentionnée dans le texte comme l'une des principales sources d'esclaves?",
+        "url": null
+      },
+      "choices": [
+        { "text": "La côte de Guinée", "correct": true },
+        { "text": "Le Congo", "correct": false },
+        { "text": "L'Éthiopie", "correct": false },
+        { "text": "Madagascar", "correct": false }
+      ],
+      "timer": 60,
+      "feedback": "La côte de Guinée était l'une des principales régions de capture et de vente d'esclaves en Afrique occidentale, couvrant approximativement les côtes des actuels Ghana, Togo, Bénin et Nigeria."
+    },
+    {
+      "topic": "Conditions des esclaves",
+      "content": {
+        "type": "text",
+        "text": "Quelles étaient les conditions de travail des esclaves dans les plantations coloniales?",
+        "url": null
+      },
+      "choices": [
+        { "text": "Journées de 12 à 16 heures", "correct": true },
+        { "text": "Journées de 6 à 8 heures", "correct": false },
+        { "text": "Travail saisonnier uniquement", "correct": false },
+        { "text": "Conditions adaptées au climat tropical", "correct": false }
+      ],
+      "timer": 60,
+      "feedback": "Les esclaves travaillaient dans des conditions extrêmement dures, avec des journées de 12 à 16 heures, particulièrement éprouvantes dans les plantations de canne à sucre."
+    },
+    {
+      "topic": "Statut juridique",
+      "content": {
+        "type": "text",
+        "text": "Quel était le statut juridique des esclaves au XVIIIe siècle?",
+        "url": null
+      },
+      "choices": [
+        { "text": "Ils étaient considérés comme des biens meubles (des objets)", "correct": true },
+        { "text": "Ils étaient considérés comme des personnes avec des droits limités", "correct": false },
+        { "text": "Ils étaient considérés comme des sujets de la couronne", "correct": false },
+        { "text": "Ils avaient un statut juridique variable selon les colonies", "correct": false }
+      ],
+      "timer": 60,
+      "feedback": "Les esclaves étaient juridiquement considérés comme des biens meubles (des objets), non comme des personnes, ce qui justifiait légalement leur achat, leur vente et leur maltraitance."
+    },
+    {
+      "topic": "Production de sucre",
+      "content": {
+        "type": "text",
+        "text": "Pourquoi le sucre était-il surnommé 'l'or blanc' à l'époque coloniale?",
+        "url": null
+      },
+      "choices": [
+        { "text": "En raison des immenses profits qu'il générait", "correct": true },
+        { "text": "À cause de sa couleur blanche après raffinage", "correct": false },
+        { "text": "Parce qu'il était aussi rare que l'or", "correct": false },
+        { "text": "Car il était uniquement consommé par les riches", "correct": false }
+      ],
+      "timer": 60,
+      "feedback": "Le sucre était surnommé 'l'or blanc' en raison des immenses profits qu'il générait pour les planteurs et les marchands européens, malgré le coût humain terrible de sa production."
+    },
+    {
+      "topic": "Personnages de Candide",
+      "content": {
+        "type": "text",
+        "text": "Quels sont les personnages principaux du roman Candide?",
+        "url": null
+      },
+      "choices": [
+        { "text": "Candide", "correct": true },
+        { "text": "Pangloss", "correct": true },
+        { "text": "Cunégonde", "correct": true },
+        { "text": "Cacambo", "correct": true },
+        { "text": "Martin", "correct": true },
+        { "text": "Voltaire", "correct": false }
+      ],
+      "timer": 60,
+      "feedback": "Les personnages principaux de Candide sont: Candide (le jeune homme naïf), Pangloss (le précepteur optimiste), Cacambo (le valet pragmatique), Martin (le philosophe pessimiste) et Cunégonde (l'amour de Candide)."
+    },
+    {
+      "topic": "Personnages de l'extrait",
+      "content": {
+        "type": "text",
+        "text": "Qui rencontre-t-on spécifiquement dans l'extrait se déroulant au Surinam?",
+        "url": null
+      },
+      "choices": [
+        { "text": "L'esclave noir mutilé", "correct": true },
+        { "text": "M. Vanderdendur", "correct": true },
+        { "text": "Pangloss", "correct": false },
+        { "text": "Cunégonde", "correct": false }
+      ],
+      "timer": 60,
+      "feedback": "Dans l'extrait étudié qui se déroule au Surinam, nous rencontrons l'esclave noir mutilé (qui n'a pas de nom) et M. Vanderdendur, le négociant hollandais propriétaire de l'esclave."
+    },
+    {
+      "topic": "Critique philosophique",
+      "content": {
+        "type": "text",
+        "text": "Quelle philosophie Voltaire critique-t-il principalement dans Candide?",
+        "url": null
+      },
+      "choices": [
+        { "text": "L'optimisme de Leibniz", "correct": true },
+        { "text": "Le pessimisme de Schopenhauer", "correct": false },
+        { "text": "Le rationalisme de Descartes", "correct": false },
+        { "text": "L'empirisme de Locke", "correct": false }
+      ],
+      "timer": 60,
+      "feedback": "Voltaire critique principalement la philosophie optimiste de Gottfried Wilhelm Leibniz (1646-1716) qui affirmait que Dieu a nécessairement créé 'le meilleur des mondes possibles' et que tout mal apparent fait partie d'un tout harmonieux."
+    },
+    {
+      "topic": "Citation clé",
+      "content": {
+        "type": "text",
+        "text": "Comment Candide définit-il l'optimisme à la fin de l'extrait?",
+        "url": null
+      },
+      "choices": [
+        { "text": "'C'est la rage de soutenir que tout est bien quand on est mal'", "correct": true },
+        { "text": "'C'est croire que tout va s'améliorer malgré les apparences'", "correct": false },
+        { "text": "'C'est voir le bon côté des choses en toutes circonstances'", "correct": false },
+        { "text": "'C'est une philosophie qui aide à supporter les malheurs'", "correct": false }
+      ],
+      "timer": 60,
+      "feedback": "La définition que donne Candide de l'optimisme à la fin de l'extrait résume parfaitement la critique voltairienne: 'c'est la rage de soutenir que tout est bien quand on est mal'."
+    },
+    {
+      "topic": "Contradictions de Voltaire",
+      "content": {
+        "type": "text",
+        "text": "Quelle contradiction peut-on relever dans l'attitude de Voltaire vis-à-vis du commerce colonial?",
+        "url": null
+      },
+      "choices": [
+        { "text": "Il critiquait l'esclavage mais avait investi dans des compagnies impliquées dans le commerce colonial", "correct": true },
+        { "text": "Il défendait publiquement l'esclavage mais le critiquait dans ses écrits", "correct": false },
+        { "text": "Il soutenait l'esclavage en Amérique mais le critiquait en Afrique", "correct": false },
+        { "text": "Il était favorable à l'esclavage des Noirs mais opposé à celui des Amérindiens", "correct": false }
+      ],
+      "timer": 60,
+      "feedback": "Bien que Voltaire ait développé une critique acerbe de l'esclavage dans plusieurs de ses œuvres, il avait lui-même investi dans des compagnies impliquées dans le commerce colonial, ce qui représente une contradiction notable dans sa position."
+    },
+    {
+      "topic": "Critique de l'esclavage",
+      "content": {
+        "type": "text",
+        "text": "Quels aspects de l'esclavage Voltaire critique-t-il à travers cet extrait?",
+        "url": null
+      },
+      "choices": [
+        { "text": "La pratique de l'esclavage elle-même", "correct": true },
+        { "text": "L'hypocrisie des Européens", "correct": true },
+        { "text": "La complicité des consommateurs européens", "correct": true },
+        { "text": "Les avantages économiques de l'esclavage", "correct": false }
+      ],
+      "timer": 60,
+      "feedback": "Voltaire critique la pratique de l'esclavage elle-même comme contraire aux droits naturels, l'hypocrisie des Européens qui parlaient de christianisme tout en pratiquant la traite, et la complicité des consommateurs européens à travers la phrase 'C'est à ce prix que vous mangez du sucre en Europe'."
+    },
+    {
+      "topic": "Importance de l'extrait",
+      "content": {
+        "type": "text",
+        "text": "Pourquoi cette scène au Surinam constitue-t-elle un moment pivot dans le roman?",
+        "url": null
+      },
+      "choices": [
+        { "text": "Candide commence à remettre en question l'optimisme de Pangloss", "correct": true },
+        { "text": "Elle crée un contraste avec les aventures rocambolesques précédentes", "correct": true },
+        { "text": "Elle résume plusieurs critiques voltairiennes", "correct": true },
+        { "text": "Candide y rencontre son futur mentor", "correct": false }
+      ],
+      "timer": 60,
+      "feedback": "Cette scène est un moment pivot car Candide commence à remettre explicitement en question l'optimisme de Pangloss, le style crée un contraste saisissant avec les aventures précédentes, et elle résume plusieurs critiques voltairiennes contre l'esclavage, l'optimisme philosophique et l'hypocrisie religieuse."
+    },
+    {
+      "topic": "Abolition de l'esclavage",
+      "content": {
+        "type": "text",
+        "text": "Quand l'esclavage a-t-il été aboli au Surinam?",
+        "url": null
+      },
+      "choices": [
+        { "text": "En 1863", "correct": true },
+        { "text": "En 1794", "correct": false },
+        { "text": "En 1848", "correct": false },
+        { "text": "En 1888", "correct": false }
+      ],
+      "timer": 60,
+      "feedback": "Le Surinam, cadre de cet extrait, n'a aboli l'esclavage qu'en 1863 sous la domination hollandaise, bien après la première abolition française de 1794 et l'abolition britannique de 1833."
+    },
+    {
+      "topic": "Voyage de Candide",
+      "content": {
+        "type": "text",
+        "text": "D'où vient Candide juste avant d'arriver au Surinam?",
+        "url": null
+      },
+      "choices": [
+        { "text": "De l'Eldorado", "correct": true },
+        { "text": "De Lisbonne", "correct": false },
+        { "text": "De Westphalie", "correct": false },
+        { "text": "De Paris", "correct": false }
+      ],
+      "timer": 60,
+      "feedback": "Au moment de cet extrait, Candide quitte l'Eldorado (pays utopique) avec une immense fortune et cherche à retrouver Cunégonde. C'est à l'entrée de Surinam qu'il rencontre l'esclave mutilé."
+    },
+    {
+      "topic": "Châtiments des esclaves",
+      "content": {
+        "type": "text",
+        "text": "Pour quelle raison les esclaves étaient-ils parfois mutilés selon le texte?",
+        "url": null
+      },
+      "choices": [
+        { "text": "Pour punir les tentatives d'évasion", "correct": true },
+        { "text": "Pour marquer leur appartenance à un maître", "correct": false },
+        { "text": "Suite aux accidents de travail dans les sucreries", "correct": true },
+        { "text": "Pour décourager les révoltes collectives", "correct": false }
+      ],
+      "timer": 60,
+      "feedback": "Comme le décrit le personnage de l'esclave dans l'extrait, les mutilations (amputation de membres) servaient de punition pour les tentatives d'évasion. De plus, les accidents de travail étaient fréquents dans les sucreries où les esclaves manipulaient des machines dangereuses."
+    },
+    {
+      "topic": "Caractéristiques littéraires",
+      "content": {
+        "type": "text",
+        "text": "Quel genre littéraire Voltaire utilise-t-il pour Candide?",
+        "url": null
+      },
+      "choices": [
+        { "text": "Le conte philosophique", "correct": true },
+        { "text": "Le roman historique", "correct": false },
+        { "text": "La tragédie", "correct": false },
+        { "text": "L'essai politique", "correct": false }
+      ],
+      "timer": 60,
+      "feedback": "'Candide ou l'Optimisme' est un conte philosophique publié par Voltaire en 1759. Ce genre permet à Voltaire d'utiliser une narration fictionnelle et des personnages pour véhiculer une critique sociale, politique et philosophique profonde."
+    },
+    {
+      "topic": "Méthode de Voltaire",
+      "content": {
+        "type": "text",
+        "text": "Quelle est la méthode de Voltaire dans le conte philosophique selon le texte?",
+        "url": null
+      },
+      "choices": [
+        { "text": "Utiliser une narration fictionnelle pour véhiculer une critique sociale, politique et philosophique", "correct": true },
+        { "text": "Présenter uniquement des faits historiques pour éduquer le lecteur", "correct": false },
+        { "text": "Défendre explicitement ses positions politiques", "correct": false },
+        { "text": "Proposer des solutions concrètes aux problèmes sociaux", "correct": false }
+      ],
+      "timer": 60,
+      "feedback": "La méthode de Voltaire dans le conte philosophique consiste à utiliser une narration fictionnelle et des personnages pour véhiculer une critique sociale, politique et philosophique profonde, comme l'illustre parfaitement le passage de Candide au Surinam."
+    },
+    {
+      "topic": "Citation célèbre",
+      "content": {
+        "type": "text",
+        "text": "Quelle phrase célèbre de l'extrait résume la critique voltairienne du système colonial?",
+        "url": null
+      },
+      "choices": [
+        { "text": "'C'est à ce prix que vous mangez du sucre en Europe'", "correct": true },
+        { "text": "'Tout est pour le mieux dans le meilleur des mondes possibles'", "correct": false },
+        { "text": "'C'est la rage de soutenir que tout est bien quand on est mal'", "correct": false },
+        { "text": "'Les hommes ne sont pas nés égaux'", "correct": false }
+      ],
+      "timer": 60,
+      "feedback": "La phrase 'C'est à ce prix que vous mangez du sucre en Europe' résume parfaitement la critique voltairienne du système colonial: les Européens consomment du sucre sans se soucier des souffrances humaines qui ont permis sa production."
+    },
+    {
+      "topic": "Voltaire et les voyages",
+      "content": {
+        "type": "text",
+        "text": "Voltaire a-t-il lui-même voyagé au Surinam?",
+        "url": null
+      },
+      "choices": [
+        { "text": "Non, c'est le personnage de Candide qui voyage", "correct": true },
+        { "text": "Oui, il y a séjourné plusieurs années", "correct": false },
+        { "text": "Oui, mais brièvement lors d'une escale", "correct": false },
+        { "text": "Non, mais il a visité d'autres colonies françaises", "correct": false }
+      ],
+      "timer": 60,
+      "feedback": "Contrairement à ce que pourrait laisser penser la question, Voltaire lui-même n'a pas voyagé au Surinam. Il s'agit du personnage de Candide qui, dans le roman, parcourt le monde et fait face à diverses catastrophes."
+    }
+  ]
